@@ -111,10 +111,10 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided1-Modul1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/image/Output-Unguided1-Modul1-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided1-Modul1-2.png)
+![Screenshot Output Unguided 1_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/image/Pertemuan1_Modul1/Output-Unguided1-Modul1-2.png)
 
 penjelasan unguided 1 
 
@@ -158,10 +158,10 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided2-Modul1-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/image/Pertemuan1_Modul1/Output-Unguided2-Modul1-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided2-Modul1-2.png)
+![Screenshot Output Unguided 2_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/image/Pertemuan1_Modul1/Output-Unguided2-Modul1-2.png)
 
 penjelasan unguided 2
 
@@ -211,10 +211,10 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided3-Modul1-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/image/Pertemuan1_Modul1/Output-Unguided3-Modul1-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/Pertemuan1_Modul1/Output-Unguided3-Modul1-2.png)
+![Screenshot Output Unguided 3_2](https://github.com/najwamahira/103112400091_Najwa-Mahira/blob/main/image/Pertemuan1_Modul1/Output-Unguided3-Modul1-2.png)
 
 penjelasan unguided 3
 
