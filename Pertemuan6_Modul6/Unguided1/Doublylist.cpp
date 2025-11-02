@@ -1,0 +1,38 @@
+#include <iostream>
+#include "Doublylist.h"
+using std::cout;
+
+void CreateList(List &L) { L.first = nullptr; L.last = nullptr; }
+
+address alokasi(const infotype &x) {
+    address P = new ElmList;
+    P->info = x;
+    P->next = nullptr;
+    P->prev = nullptr;
+    return P;
+}
+
+void dealokasi(address &P) { delete P; P = nullptr; }
+
+void printInfo(const List &L) {
+    cout << "\nDATA LIST 1\n\n";
+    address P = L.first;
+    if (!P) { cout << "List kosong\n"; return; }
+    while (P) {
+        cout << "Nomer Polisi : " << P->info.nopol << "\n";
+        cout << "Warna        : " << P->info.warna << "\n";
+        cout << "Tahun        : " << P->info.thnBuat << "\n\n";
+        P = P->next;
+    }
+}
+
+void insertFirst(List &L, address P) {
+    if (!L.first) { L.first = P; L.last = P; }
+    else { P->next = L.first; L.first->prev = P; L.first = P; }
+}
+
+address findElm(const List &L, const string &nopol) {
+    address P = L.first;
+    while (P) { if (P->info.nopol == nopol) return P; P = P->next; }
+    return nullptr;
+}
